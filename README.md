@@ -1,0 +1,2 @@
+# SpringAuthApp
+basic auth app 
